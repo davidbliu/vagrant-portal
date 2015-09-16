@@ -1,0 +1,23 @@
+[2015-09-16 02:51:13,359][INFO ][node                     ] [Boom Boom] version[0.90.7], pid[18242], build[36897d0/2013-11-13T12:06:54Z]
+[2015-09-16 02:51:13,359][INFO ][node                     ] [Boom Boom] initializing ...
+[2015-09-16 02:51:13,376][INFO ][plugins                  ] [Boom Boom] loaded [], sites []
+[2015-09-16 02:51:18,952][INFO ][node                     ] [Boom Boom] initialized
+[2015-09-16 02:51:18,953][INFO ][node                     ] [Boom Boom] starting ...
+[2015-09-16 02:51:19,154][INFO ][transport                ] [Boom Boom] bound_address {inet[/0:0:0:0:0:0:0:0:9300]}, publish_address {inet[/10.0.2.15:9300]}
+[2015-09-16 02:51:22,263][INFO ][cluster.service          ] [Boom Boom] new_master [Boom Boom][eqiyY2zmR9-cg3NgUMCcfQ][inet[/10.0.2.15:9300]], reason: zen-disco-join (elected_as_master)
+[2015-09-16 02:51:22,428][INFO ][discovery                ] [Boom Boom] elasticsearch/eqiyY2zmR9-cg3NgUMCcfQ
+[2015-09-16 02:51:22,507][INFO ][http                     ] [Boom Boom] bound_address {inet[/0:0:0:0:0:0:0:0:9200]}, publish_address {inet[/10.0.2.15:9200]}
+[2015-09-16 02:51:22,512][INFO ][node                     ] [Boom Boom] started
+[2015-09-16 02:51:22,608][INFO ][gateway                  ] [Boom Boom] recovered [0] indices into cluster_state
+[2015-09-16 02:51:38,172][INFO ][cluster.metadata         ] [Boom Boom] [pg_posts] creating index, cause [auto(bulk api)], shards [5]/[1], mappings []
+[2015-09-16 02:51:39,403][INFO ][cluster.metadata         ] [Boom Boom] [pg_posts] update_mapping [pg_post] (dynamic)
+[2015-09-16 02:52:31,593][INFO ][cluster.metadata         ] [Boom Boom] [go_links] creating index, cause [auto(update api)], shards [5]/[1], mappings []
+[2015-09-16 02:52:32,760][INFO ][cluster.metadata         ] [Boom Boom] [go_links] update_mapping [go_link] (dynamic)
+[2015-09-16 02:52:32,938][INFO ][cluster.metadata         ] [Boom Boom] [go_links] update_mapping [go_link] (dynamic)
+[2015-09-16 02:52:33,384][INFO ][cluster.metadata         ] [Boom Boom] [go_links] update_mapping [go_link] (dynamic)
+[2015-09-16 02:52:37,223][INFO ][cluster.metadata         ] [Boom Boom] [go_links] update_mapping [go_link] (dynamic)
+[2015-09-16 02:57:16,641][INFO ][cluster.metadata         ] [Boom Boom] [go_links] update_mapping [go_link] (dynamic)
+[2015-09-16 02:58:34,844][INFO ][node                     ] [Boom Boom] stopping ...
+[2015-09-16 02:58:35,048][INFO ][node                     ] [Boom Boom] stopped
+[2015-09-16 02:58:35,049][INFO ][node                     ] [Boom Boom] closing ...
+[2015-09-16 02:58:35,069][INFO ][node                     ] [Boom Boom] closed
