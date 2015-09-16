@@ -1,1 +1,1 @@
-{"virtualbox":{"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/davidbliu/Desktop/vagrant","disabled":false},"/portal":{"guestpath":"/portal","hostpath":"/Users/davidbliu/Desktop/pbl-portal-new","disabled":false}}}
+{"virtualbox":{"/portal":{"guestpath":"/portal","hostpath":"/Users/davidbliu/Desktop/pbl-portal-new","disabled":false},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/davidbliu/Desktop/vagrant-portal","disabled":false}}}
